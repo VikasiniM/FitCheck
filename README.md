@@ -16,6 +16,10 @@ A simple and responsive Body Mass Index (BMI) calculator built using **React** a
 - Clean and responsive UI
 - Real-time feedback on input changes
 ---
+## **App Screenshots** 🖼️
+  
+![UI](image.jpg)
+---
 ## 🛠 Installation
 
 ```bash
